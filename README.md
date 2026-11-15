@@ -25,10 +25,10 @@ The plugin sends the text of the song request you give Claude (for example the o
 
 ## Privacy, terms and contact
 
-- Privacy policy: https://www.neo-fm.com/privacy (PLACEHOLDER: confirm live and Legal-approved before submission)
-- Terms: https://www.neo-fm.com/terms (PLACEHOLDER: same check)
+- Privacy policy: https://www.neo-fm.com/privacy
+- Terms: https://www.neo-fm.com/terms
 - Support: support@technektar.com
-- Grievance officer (India): https://www.neo-fm.com/grievance (PLACEHOLDER: confirm)
+- Grievance and support: support@technektar.com
 
 ## Install
 
