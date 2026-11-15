@@ -1,0 +1,3 @@
+Copyright (c) 2026 TechNektar. All rights reserved.
+
+This plugin is a thin wrapper that connects Claude to the neo-fm service (https://www.neo-fm.com). neo-fm is proprietary software of TechNektar. No part of this plugin or of neo-fm may be copied, modified, distributed, sublicensed or forked without prior written permission from TechNektar. Use of the neo-fm service is governed by https://www.neo-fm.com/terms.
