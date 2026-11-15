@@ -2,14 +2,15 @@
 
 Original AI songs and radio in Indian languages, from your own neo-fm account, inside Claude.
 
-neo-fm makes songs in Hindi, Kannada, Tamil, Telugu, Malayalam, Marathi, Bengali and English for people and occasions: birthdays, anniversaries, festivals, friendships. This plugin connects Claude to your neo-fm account and adds a skill, "make a song for someone", that gathers what is needed and asks neo-fm to make the song.
+neo-fm makes songs in Hindi, Kannada, Tamil, Telugu, Malayalam, Marathi, Bengali and English for people and occasions: birthdays, anniversaries, festivals, friendships. This plugin connects Claude to your neo-fm account and adds skills that gather what is needed and asks neo-fm to make the song.
 
 Publisher: TechNektar. Website: https://www.neo-fm.com
 
 ## What it adds
 
 - **A connector** to the neo-fm server at `https://www.neo-fm.com/api/assistant/mcp`. You sign in with your neo-fm account through OAuth the first time you connect. Claude can then check your account status (songs left), start a song, check its progress and lyrics, and list your own recent songs.
-- **A skill**, `make-a-song-for-someone`, that guides Claude through making a personal song.
+- **Four skills**: `get-started` (what neo-fm can do), `make-a-song-for-someone` (guides Claude through making a personal song), `find-a-station` (radio by language and mood) and `todays-film` (the public film of the day).
+- **An in-chat player**: the connector serves the neo-fm player (MCP Apps) so a finished song shows with its lyrics and AI label where the app supports it; otherwise Claude shows lyrics and a link.
 
 ## What you should know
 
@@ -28,7 +29,7 @@ The plugin sends the text of the song request you give Claude (for example the o
 - Privacy policy: https://www.neo-fm.com/privacy
 - Terms: https://www.neo-fm.com/terms
 - Support: support@technektar.com
-- Grievance and support: support@technektar.com
+- Grievance officer (India): https://www.neo-fm.com/grievance
 
 ## Install
 
