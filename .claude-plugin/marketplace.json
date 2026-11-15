@@ -1,0 +1,17 @@
+{
+  "name": "technektar",
+  "owner": {
+    "name": "TechNektar",
+    "email": "support@technektar.com"
+  },
+  "metadata": {
+    "description": "TechNektar's Claude plugins: neo-fm, original AI songs and radio in Indian languages."
+  },
+  "plugins": [
+    {
+      "name": "neo-fm",
+      "source": "./",
+      "description": "Original AI songs and radio in Indian languages from your neo-fm account."
+    }
+  ]
+}
