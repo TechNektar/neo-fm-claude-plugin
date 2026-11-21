@@ -1,7 +1,6 @@
 {
   "name": "neo-fm",
-  "displayName": "neo-fm",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Make original AI songs and listen to AI radio in Indian languages from your neo-fm account. Songs are AI-generated and labelled as such.",
   "author": {
     "name": "TechNektar",
@@ -9,6 +8,7 @@
     "url": "https://www.neo-fm.com"
   },
   "homepage": "https://www.neo-fm.com",
+  "repository": "https://github.com/TechNektar/neo-fm-claude-plugin",
   "license": "LicenseRef-Proprietary",
   "keywords": [
     "music",
@@ -20,6 +20,5 @@
     "telugu",
     "kannada"
   ],
-  "privacyPolicyUrl": "https://www.neo-fm.com/privacy",
-  "termsOfServiceUrl": "https://www.neo-fm.com/terms"
+  "privacyPolicyUrl": "https://www.neo-fm.com/privacy"
 }
